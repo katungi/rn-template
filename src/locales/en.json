@@ -1,0 +1,8 @@
+{
+  "tabs": {
+    "one": "One",
+    "two": "Two",
+    "settings": "Settings"
+  },
+  "greeting": "🚀 expo-starter-kit 🚀"
+}
